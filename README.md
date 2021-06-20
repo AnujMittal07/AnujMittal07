@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnujMittal07
 - 👀 I’m interested in Data Analysis and Machine Learning
 - 🌱 I’m currently learning and practising how to handle various cases related to ouliers, imbalanced data, missing values and multicollinearity in ML, while doing hands on on SQL and Data Structures on Leetcode
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some early entrence level ML projects
 - 📫 How to reach me : am431@snu.edu.in
 
 <!---
